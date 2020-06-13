@@ -1,0 +1,13 @@
+E:\项目爱聊\LoveTalk\MainProject\bin\Debug\netcoreapp3.1\MainProject.exe
+E:\项目爱聊\LoveTalk\MainProject\bin\Debug\netcoreapp3.1\MainProject.deps.json
+E:\项目爱聊\LoveTalk\MainProject\bin\Debug\netcoreapp3.1\MainProject.runtimeconfig.json
+E:\项目爱聊\LoveTalk\MainProject\bin\Debug\netcoreapp3.1\MainProject.runtimeconfig.dev.json
+E:\项目爱聊\LoveTalk\MainProject\bin\Debug\netcoreapp3.1\MainProject.dll
+E:\项目爱聊\LoveTalk\MainProject\bin\Debug\netcoreapp3.1\MainProject.pdb
+E:\项目爱聊\LoveTalk\MainProject\obj\Debug\netcoreapp3.1\MainProject.csprojAssemblyReference.cache
+E:\项目爱聊\LoveTalk\MainProject\obj\Debug\netcoreapp3.1\MainProject.AssemblyInfoInputs.cache
+E:\项目爱聊\LoveTalk\MainProject\obj\Debug\netcoreapp3.1\MainProject.AssemblyInfo.cs
+E:\项目爱聊\LoveTalk\MainProject\obj\Debug\netcoreapp3.1\MainProject.csproj.CoreCompileInputs.cache
+E:\项目爱聊\LoveTalk\MainProject\obj\Debug\netcoreapp3.1\MainProject.dll
+E:\项目爱聊\LoveTalk\MainProject\obj\Debug\netcoreapp3.1\MainProject.pdb
+E:\项目爱聊\LoveTalk\MainProject\obj\Debug\netcoreapp3.1\MainProject.genruntimeconfig.cache
