@@ -46,7 +46,9 @@ namespace MainProject
             Console.ReadLine();
         }
     }
-#region 装饰者模式学习
+
+    //lobbs
+    #region 装饰者模式学习
     public enum BeverageSize
     {
         little,
